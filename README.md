@@ -42,7 +42,9 @@ CG-Lab/
 - 处理鼠标交互
 - 控制仿真循环
 
-## 演示视频 [点击查看演示视频](./src/Experiment 0_ Taichi Gravity Swarm  193.876462 FPS 2026-03-13 18-01-02.mp4)
+## 演示视频
+[点击查看演示视频](./src/Experiment 0_ Taichi Gravity Swarm  193.876462 FPS 2026-03-13 18-01-02.mp4)
+
 
 
 
