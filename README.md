@@ -5,9 +5,7 @@
 ## 演示视频
 
 下面是运行演示视频：
-
-[点击查看演示视频](./video.mp4)
-若视频无法播放，此为师大云盘链接https://pan.bnu.edu.cn/l/B193xg
+![demo](video.gif)
 
 ## 项目结构
 
